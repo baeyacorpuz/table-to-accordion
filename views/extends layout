@@ -1,0 +1,45 @@
+extends layout
+
+block content
+
+  button.accordion.hidden ThePLAN 599
+  .panel
+    thead
+      tr 
+        th Inclusions
+        th SIM-Only
+        th With Device
+    tbody
+      tr
+        th MONTHLY DATA
+        td Free Facebook (1GB data allocation per month ofr 24months)
+        td 2.5GB Mobile Internet
+      tr
+        th ADDITIONAL APP DATA
+        td Free Facebook (1GB data allocation per month ofr 24months)
+        td 2.5GB Mobile Internet
+      tr
+        th CALLS & TEXTS
+        td Free Facebook (1GB data allocation per month ofr 24months)
+        td 2.5GB Mobile Internet
+      tr
+        th CONTENT ACCESS
+        td Free Facebook (1GB data allocation per month ofr 24months)
+        td 2.5GB Mobile Internet
+      tr
+        th SHIPPING
+        td Free Shipping
+        td Free Shipping
+      tr
+        th OTHERS
+        td N/A
+        td N/A
+  button.accordion ThePLAN 799
+  .panel
+    p Lorem ipsum...
+  button.accordion ThePLAN 999
+  .panel
+    p Lorem ipsum...
+  button.accordion ThePLAN 1299
+  .panel
+    p Lorem ipsum...
